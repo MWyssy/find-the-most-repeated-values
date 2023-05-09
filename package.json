@@ -1,0 +1,15 @@
+{
+  "name": "find-the-most-repeated-value",
+  "version": "1.0.0",
+  "description": "​ Create a function that looks through a flat array and returns an object that describes the most repeated element or elements in the array. The object will be in the format: ​",
+  "main": "find-the-most-repeated-value.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
